@@ -25,7 +25,7 @@ The signal survives:
 
 ## Quick start (Google Colab)
 1. Open the notebook: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jedi-Markus-Strive/UTMF-CRISP/blob/main/UTMF_Main.ipynb)
-2. Mount your Google Drive (datasets must be in `/MyDrive/Datasets_FAAS/`)
+2. Mount your Google Drive (datasets must be in `/MyDrive/Datasets_UTMF/`)
 3. Run all cells → you will reproduce TMCI ≈ 0.93 in ~15–20 minutes
 
 ## Repository structure
@@ -39,16 +39,6 @@ UTMF-CRISP/
 └── LICENSE
 
 
-## Citation (when published)
-```bibtex
-@misc{eversdijk2025utmf,
-  author = {Eversdijk, Maurits},
-  title = {Unified Temporal–Measurement Framework (UTMF): Empirical evidence for cross-domain multifractal coherence},
-  year = {2025},
-  publisher = {arXiv},
-  url = {https://arxiv.org/abs/XXXX.XXXXX}
-}
 
-Made with intuition, tested a thousand times, and still standing.
 
 
