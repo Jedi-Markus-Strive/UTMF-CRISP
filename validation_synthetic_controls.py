@@ -1,5 +1,5 @@
 # UTMF — Validation: Real datasets vs Synthetic controls
-# Author: M. Eversdijk
+# Author: Jedi Markus Strive
 # Generates timestamped summary CSV and Figure 4 (as used in the preprint)
 
 import numpy as np
