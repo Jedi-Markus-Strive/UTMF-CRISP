@@ -37,12 +37,12 @@ Key result: real datasets consistently yield high coherence (MCI = 1.026 ± 0.19
 
 ## Quick start (Google Colab)
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jedi-Markus-Strive/UTMF-CRISP/blob/main/UTMF_v5.0_Main.py)
+[![Open UTMF Launcher in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jedi-Markus-Strive/UTMF-CRISP/blob/main/UTMF_launcher.ipynb)
 
-1. Place required datasets in a folder `Datasets_UTMF` on your Google Drive  
-2. Run `prepare_NANOGrav_15yr_data.ipynb` first if using pulsar data  
-3. Execute the notebooks in order  
-→ Full reproduction including TMCI ≈ 0.93 and complete null-model separation in ~20–30 minutes.
+1. Click the badge above → opens the launcher notebook in Colab
+2. Mount your Google Drive (prompt appears) – place datasets in `/MyDrive/Datasets_UTMF/`
+3. Run all cells → clones repo, runs all .py scripts, extracts NANOGrav, generates outputs
+→ Full reproduction in ~20–30 minutes (TMCI ≈ 0.93 + null-model separation)
 
 ## Citation
 
