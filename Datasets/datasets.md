@@ -36,20 +36,20 @@
   **Dataset used in UTMF v5.0 configuration:**
 - `data_B.exactly2lep.root` [Download:](https://opendata.cern.ch/record/15007/files/data_B.exactly2lep.root) (451MB)
                                                                                               
-    ➕ This repository includes a helpfile: `data_B.exactly2lep.h5` [Download:](https://github.com/Jedi-Markus-Strive/UTMF-CRISP/raw/refs/heads/main/datasets/data_B.exactly2lep.h5) (315KB) (helpfile for .root, store it at the same location as .root-file.)
+    ➕ This repository includes a helpfile: `data_B.exactly2lep.h5` [Download:](https://github.com/Jedi-Markus-Strive/UTMF-CRISP/raw/refs/heads/main/Datasets/data_B.exactly2lep.h5) (315KB) (helpfile for .root, store it at the same location as .root-file.)
 ---
 - **[NIST Atomic Spectra Database](https://physics.nist.gov/PhysRefData/ASD/lines_form.html)**                          
   CSV spectra (e.g., `NIST_3.csv` for atomic lines)
   
   **Dataset used in UTMF v5.0 configuration:**                                                                        
-- `NIST_3.csv` [Download](https://github.com/Jedi-Markus-Strive/UTMF-CRISP/raw/refs/heads/main/datasets/NIST_3.zip)** (3.3MB) (Complete dataset as used in UTMF v5.0, unzip and use the CSV
+- `NIST_3.csv` [Download](https://github.com/Jedi-Markus-Strive/UTMF-CRISP/raw/refs/heads/main/Datasets/NIST_3.zip)** (3.3MB) (Complete dataset as used in UTMF v5.0, unzip and use the CSV
 (17.4MB) for UTMF analysis.)
 ---
 - **[NANOGrav Data Releases](https://zenodo.org/records/16051178)**  
 - Pulsar timing residuals (e.g., `NG15yr narrowband` files).
 
   **Dataset used in UTMF v5.0 configuration:**
-- `NANOGrav15yr_PulsarTiming_v2.1.0` [Download:](https://zenodo.org/records/16051178/files/NANOGrav15yr_PulsarTiming_v2.1.0.tar.gz?download=1) (639MB) (Unzip the file, use for UTMF analysis.)
+- `NANOGrav15yr_PulsarTiming_v2.1.0` [Download:](https://zenodo.org/records/16051178/files/NANOGrav15yr_PulsarTiming_v2.1.0.tar.gz?download=1) (639MB) ([Unzip](https://github.com/Jedi-Markus-Strive/UTMF-CRISP/raw/refs/heads/main/prepare_NANOGrav_15yr_data.ipynb) the file, use for UTMF analysis.)
 ---
 - **[Gaia Archive (DR3)](https://vizier.cds.unistra.fr/viz-bin/VizieR-4)**  
   Source catalogs in TSV format (e.g., `gaia_dr3.tsv`).                                                                 
