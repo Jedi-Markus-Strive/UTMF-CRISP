@@ -1,5 +1,5 @@
 # UTMF — Final statistical validation (13 independent tests)
-# Author: M. Eversdijk
+# Author: Jedi Markus Strive
 # Automatically finds the latest synthetic-validation CSV and runs all tests
 
 import numpy as np, pandas as pd, os, glob
