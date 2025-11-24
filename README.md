@@ -2,8 +2,8 @@
 **Unified Temporal–Measurement Framework (UTMF)**  
 Empirical detection of universal multifractal coherence across 60 orders of magnitude — from quantum random bits to cosmic microwave background.
 
-**Author**: Maurits Eversdijk (Jedi Markus Strive)  
-**Contact**: crisplatform@gmail.com  
+**Author**: Jedi Markus Strive  
+**Contact**: crisplatform@gmail.com, x.com/JediStrive19156  
 **License**: MIT  
 **arXiv preprint** (coming soon): [link invullen zodra geüpload]
 
@@ -24,7 +24,7 @@ The signal survives:
 → Strongly suggests a real universal pattern, not an artifact.
 
 ## Quick start (Google Colab)
-1. Open the notebook: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JediMarkusStrive/UTMF-CRISP/blob/main/UTMF_Main.ipynb)
+1. Open the notebook: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jedi-Markus-Strive/UTMF-CRISP/blob/main/UTMF_Main.ipynb)
 2. Mount your Google Drive (datasets must be in `/MyDrive/Datasets_FAAS/`)
 3. Run all cells → you will reproduce TMCI ≈ 0.93 in ~15–20 minutes
 
