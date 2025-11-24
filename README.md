@@ -10,7 +10,7 @@ Empirical evidence for cross-domain multifractal coherence in high-precision phy
 
 ## Overview
 
-UTMF is a minimal, fully reproducible, domain-agnostic pipeline that applies multifractal detrended fluctuation analysis (MFDFA) to heterogeneous scientific datasets and quantifies coherence of the resulting h(q) spectra via three indices (TCI, MCI, TMCI).
+UTMF is a minimal, fully reproducible, domain-agnostic pipeline that applies multifractal detrended fluctuation analysis (MFDFA) to heterogeneous scientific datasets and quantifies coherence of the resulting h(q) spectra via three indices: TCI (Temporal Coherence Index), MCI (Measurement Coherence Index), TMCI (Temporal-Measurement Coherence Index).
 
 Tested datasets (19 total):
 - Quantum random number generator (NIST)
