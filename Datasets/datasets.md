@@ -45,7 +45,7 @@
 - `NIST_3.csv` [Download](https://github.com/Jedi-Markus-Strive/UTMF-CRISP/raw/refs/heads/main/datasets/NIST_3.zip)** (3.3MB) (Complete dataset as used in UTMF v5.0, unzip and use the CSV
 (17.4MB) for UTMF analysis.)
 ---
-  **[NANOGrav Data Releases](https://zenodo.org/records/16051178)**  
+- **[NANOGrav Data Releases](https://zenodo.org/records/16051178)**  
 - Pulsar timing residuals (e.g., `NG15yr narrowband` files).
 
   **Dataset used in UTMF v5.0 configuration:**
@@ -56,11 +56,11 @@
   **Dataset used in UTMF v5.0:**                                                                                      
       **Select:**                                                                                                       
         1- 'gaiadr3'                                                                                                    
-        2- '999999'                                                                                                     
-        3- 'Tab Seperated Values'                                                                                       
-        4- 'All collums'                                                                                                
-        5- 'Submit'  (file is downloaded)                                                                               
-        6- Rename file to 'gaia_dr3' or update path in config.                                                          
+        2. Table: `I/355/gaiadr3`  
+        3. Rows: `1-999999`  
+        4. Format: Tab-Separated Values  
+        5. Columns: All                                                                                
+        6. Rename file to 'gaia_dr3' or update path in config.                                                          
 ---
 - **[ANU Quantum Random Numbers (QRNG)](https://qrng.anu.edu.au/)**  
   API-based quantum random sequences (no download required, incorporated in UTMF v5.0 configuration).
