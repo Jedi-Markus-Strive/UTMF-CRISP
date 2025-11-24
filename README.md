@@ -37,7 +37,7 @@ Key result: real datasets consistently yield high coherence (MCI = 1.026 ± 0.19
 
 ## Quick start (Google Colab)
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jedi-Markus-Strive/UTMF-CRISP/blob/main/UTMF_v5.0_Main.py)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jedi-Markus-Strive/UTMF-CRISP/blob/main/UTMF_v5.0_Main.ipynb)
 
 1. Place required datasets in a folder `Datasets_UTMF` on your Google Drive  
 2. Run `prepare_NANOGrav_15yr_data.ipynb` first if using pulsar data  
