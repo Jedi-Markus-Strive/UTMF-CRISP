@@ -26,9 +26,9 @@ Key result: real datasets consistently yield high coherence (MCI = 1.026 ± 0.19
 
 ## Repository contents
 
-- `UTMF_main.py` – complete analysis pipeline  
-- `validation_synthetic_controls.py` – real vs synthetic null-model comparison (generates Figure 4)  
-- `final_statistical_validation.py` – 13 statistical tests  
+- `UTMF_v5.0_Main.py` – complete analysis pipeline  
+- `validation_synthetic_controls.py` – real vs synthetic null-model comparison   
+- `final_statistical_validation.py` – 13 statistical tests  (generates Figure 4)
 - `prepare_NANOGrav_15yr_data.ipynb` – extracts the official NANOGrav 15-yr dataset  
 - `Datasets/` – target directory for all raw and extracted data  
 - `UTMF_outputs/` – automatically generated CSVs, figures and JSON artefacts  
