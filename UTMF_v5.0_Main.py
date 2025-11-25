@@ -1190,12 +1190,12 @@ def calculate_mci_multivariate(results_all):
             spectra.append(mean_hq)
             valid_datasets.append(dataset_name)
         except Exception as e:
-            continue  # stilzwijgend skippen
+            continue  
 
-    print(f"[MCI-4.3] Gevonden datasets met h(q): {len(valid_datasets)}")
+    print(f"[MCI-4.3] Datasets with h(q): {len(valid_datasets)}")
 
     if len(spectra) < 2:
-        print("[MCI-4.3] Minder dan 2 geldige spectra → MCI = 0.0")
+        print("[MCI-4.3] Less than 2 valid spectra → MCI = 0.0")
         return 0.0
 
     all_corrs = []
@@ -1206,7 +1206,7 @@ def calculate_mci_multivariate(results_all):
             all_corrs.append(abs(corr))
 
     mci = np.nanmean(all_corrs)
-    print(f"[MCI-4.3] Multifractaal MCI = {mci:.3f} ({len(all_corrs)} paren uit {len(valid_datasets)} datasets)")
+    print(f"[MCI-4.3] Multifractal MCI = {mci:.3f} ({len(all_corrs)} pairs from {len(valid_datasets)} datasets)")
     return mci
 
 # Calculate TMCI (Temporal-Measurement Coherence Index)
